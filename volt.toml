@@ -1,7 +1,6 @@
-name = "spaceduck"
-display-name = "Spaceduck"
-description = "Lapce theme for Spaceduck"
-version = "0.1.0"
 author = "ConnorSMorrison"
-repository = "ConnorSMorrison/lapce-spaceduck"
-themes = ["lapce-spaceduck.toml"]
+description = "Lapce theme of Spaceduck"
+display-name = "Spaceduck"
+name = "spaceduck"
+version = "0.0.1"
+color-themes = ["lapce-spaceduck.toml"]
